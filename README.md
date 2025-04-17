@@ -1,5 +1,7 @@
 1.有做RWD(調整寬時)
+
 2.有用到一些Tailwind CSS
+
 3.有導入 TypeScript 進行開發
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
